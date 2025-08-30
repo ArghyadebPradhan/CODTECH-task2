@@ -1,11 +1,3 @@
-Name: ARGHYADEB PRADHAN 
-Company: CODTECH IT SOLUTIONS 
-ID: CT08DS7684 
-Domain: INTERNET OF THINGS
-Duration: AUGUST 30th, 2024 to SEPTEMBER 30th, 2024
-
-Overview of the project:
-
 Project: Weather Monitoring System
 
 Objective: Building a weather monitoring system using IoT sensors to collect data on
